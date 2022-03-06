@@ -17,7 +17,7 @@ Program ini adalah program "Pendataan Ketersediaan". User dapat melakukan input 
 Menggunakan prinsip 'is a', Ship dan Airplane adalah Vehicle. Maka terdapat 1 parent yang memiliki lebih dari 1 child. Maka dari itu lah untuk kasus Vehicle(a), menggunakan desain Hierarchical Inheritance.
 ### Driver(b)
 ![b_desain_multiple](https://user-images.githubusercontent.com/99194983/156913823-2d722d66-970c-4542-86b0-5be675c26e1e.png) \
-Menggunakan prinsip 'is a', Driver adalah Person dan Driver juga adalah Job. Maka terdapat 1 child yang memiliki lebih dari 2 parent. Maka dari itu lah untuk kasus Driver(b), menggunakan desain Multiple Inheritance.
+Menggunakan prinsip 'is a', Driver adalah Person dan Driver juga adalah Job. Maka terdapat 1 child yang memiliki lebih dari 1 parent. Maka dari itu lah untuk kasus Driver(b), menggunakan desain Multiple Inheritance.
 
 ## Run Program
 ### Vehicle(a)
